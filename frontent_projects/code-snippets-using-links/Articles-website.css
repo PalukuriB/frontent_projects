@@ -1,0 +1,82 @@
+.ArticlesHomePagebgcontainer {
+  background-color: #225db0;
+  background-size: cover;
+  height: 75vh;
+  padding-top: 45px;
+  padding-left: 13px;
+}
+
+.ArticlesHomePageCardDescription {
+  padding-left: 10px;
+}
+
+.ArticleHomePageHeading {
+  font-family: "Roboto";
+  color: #ffffff;
+  font-size: 30px;
+}
+
+.ArticlesHomePagedescription {
+  font-family: "Roboto";
+  color: #ffffff;
+  font-weight: 500;
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.ArtcilesHomePageexplorationsCard {
+  background-color: #ffffff;
+  border-width: 0px;
+  border-radius: 10px;
+  height: 78px;
+  width: 125px;
+  margin-left: 15px;
+  margin-top: 25px;
+  text-align: center;
+  padding: 10px;
+}
+
+.ArticlesHomePageExploreImages {
+  height: 28px;
+  width: 30px;
+  margin-bottom: 5px;
+}
+
+.ArticlesHomePageExploredescription {
+  font-family: "Roboto";
+  color: #222222;
+  font-size: 13px;
+}
+
+.ArticlesDesignFilesPage {
+  background-color: #225db0;
+  background-size: cover;
+  height: 75vh;
+  padding: 20px;
+}
+
+.ArticlesSDesignFilesCardHeading {
+  margin-top: 20px;
+  margin-bottom: 25px;
+  font-family: "Roboto";
+  color: #ffffff;
+  font-size: 22px;
+  font-weight: 500;
+}
+
+.topics {
+  font-family: "Roboto";
+  color: #ffffff;
+  font-weight: 500;
+  font-size: 14px;
+  margin-bottom: 15px;
+}
+
+.design-style {
+  background-color: #225db0;
+  text-align: center;
+  border-color: #ffffff;
+  color: #ffffff;
+  font-size: 10px;
+  width: 40px;
+}

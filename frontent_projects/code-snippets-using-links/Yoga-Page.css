@@ -1,0 +1,81 @@
+.Yoga-Home-Page-Bg-Container {
+  background-image: url("https://assets.ccbp.in/frontend/static-website/yoga-bg.png");
+  background-size: cover;
+  height: 100vh;
+  text-align: center;
+}
+
+.Yoga-Home-Page-Heading {
+  font-family: "Roboto";
+  font-size: 25px;
+  color: #132d84;
+  font-weight: bold;
+  height: 39vh;
+  padding-top: 50px;
+}
+
+.Girl-image {
+  height: 250px;
+  width: 260px;
+  margin-bottom: 10px;
+}
+
+.Yoga--home-Page-Description {
+  font-family: "Roboto";
+  color: #323f4b;
+  font-weight: 500;
+  margin-bottom: 17px;
+}
+
+.Yoga-Home-Page-Button {
+  background-color: #132d84;
+  color: #fad693;
+  height: 35px;
+  width: 100px;
+  border-radius: 5px;
+  border-width: 0px;
+  font-size: 13px;
+}
+
+.Yoga-Detailed-Page-Bg-container {
+  background-color: #ffedcb;
+  padding: 15px;
+}
+
+.Yoga-Detailed-Page-Heading {
+  font-family: "Roboto";
+  color: #132d84;
+  font-size: 25px;
+}
+
+.Yoga-detailed-Page-types-decription-card {
+  border-width: 0px;
+  border-radius: 8px;
+  border-style: solid;
+  padding: 15px;
+  background-color: #ffe2ab;
+  margin: 18px;
+
+}
+
+.Yoga-description-image {
+  height: 80px;
+  margin-right: 15px;
+}
+
+.Yoga-page-img-heading {
+  font-family: "Roboto";
+  font-size: 15px;
+  font-weight: 500;
+  color: #132d84;
+}
+
+.Yoga-detailed-page-button {
+  background-color: #132d84;
+  color: #fad693;
+  height: 35px;
+  width: 100px;
+  border-radius: 5px;
+  border-width: 0px;
+  font-size: 13px;
+}

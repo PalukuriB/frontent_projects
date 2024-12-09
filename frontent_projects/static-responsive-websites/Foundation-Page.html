@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <style>
+    .Foundations-Page-bg-container {
+      background-image: url("https://assets.ccbp.in/frontend/static-website/foundations-bg.png");
+      background-size: cover;
+      height: 100vh;
+    }
+
+    .Foundation-Page-container {
+      background-color: #ffffff;
+      height: 65vh;
+      background-size: cover;
+      border-top-left-radius: 25px;
+      border-top-right-radius: 25px;
+      padding: 40px;
+    }
+
+    .Foundation-page-heading {
+      font-family: "Roboto";
+      font-weight: bold;
+      color: #323f4b;
+      font-size: 30px;
+    }
+
+    .Foundation-Page-description {
+      font-family: "Roboto";
+      font-size: 16px;
+      color: #7b8794;
+      font-weight: 500;
+    }
+
+    .Foundation-Image-Border-Card {
+      width: 140px;
+      padding: 10;
+      border-color: #cbd2d9;
+      border-radius: 7px;
+      border-width: 2px;
+      border-style: solid;
+      margin-right: 15px;
+    }
+
+    .Foundation-Image-selection {
+      margin-bottom: 15px;
+    }
+
+    .Foundation-allignement {
+      text-align: center;
+      margin-top: 10px;
+    }
+
+    .Favourite-image-check {
+      height: 45px;
+      padding-bottom: 5px;
+    }
+
+    .Foundation-image-description {
+      font-family: "Roboto";
+      font-weight: 500;
+      color: #323f4b;
+    }
+  </style>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+    integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+    integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous">
+    </script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"
+    integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous">
+    </script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"
+    integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous">
+    </script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Foundation Page</title>
+</head>
+
+<body>
+  <div class="Foundations-Page-bg-container d-flex flex-column justify-content-end">
+    <div class="Foundation-Page-container">
+      <h1 class="Foundation-page-heading">
+        Foundations
+      </h1>
+      <p class="Foundation-Page-description">
+        Learn courses that will help you move<br />forword in your career
+      </p>
+      <div class="Foundation-Image-selection d-flex flex-row">
+        <div class="Foundation-Image-Border-Card">
+          <div class="Foundation-allignement">
+            <img src="https://assets.ccbp.in/frontend/static-website/foundations-python-img.png"
+              class="Favourite-image-check" />
+            <p class="Foundation-image-description">
+              Python
+            </p>
+          </div>
+        </div>
+        <div class="Foundation-Image-Border-Card">
+          <div class="Foundation-allignement">
+            <img src="https://assets.ccbp.in/frontend/static-website/foundations-javascript-img.png"
+              class="Favourite-image-check" />
+            <p class="Foundation-image-description">
+              Javascript
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="Foundation-Image-selection d-flex flex-row">
+        <div class="Foundation-Image-Border-Card">
+          <div class="Foundation-allignement">
+            <img src="https://assets.ccbp.in/frontend/static-website/foundations-html5-img.png"
+              class="Favourite-image-check" />
+            <p class="Foundation-image-description">
+              HTML5
+            </p>
+          </div>
+
+        </div>
+        <div class="Foundation-Image-Border-Card">
+          <div class="Foundation-allignement">
+            <img src="https://assets.ccbp.in/frontend/static-website/foundations-java-img.png"
+              class="Favourite-image-check" />
+            <p class="Foundation-image-description">
+              Java
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+
+</html>

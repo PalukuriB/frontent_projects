@@ -1,0 +1,158 @@
+.SunriseAvenueHomePage-Bg-container {
+  background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-bg.png");
+  background-size: cover;
+  height: 100vh;
+}
+
+.SunriseAvenueHomePageCard {
+  background-color: #ffffff;
+  background-size: cover;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  padding: 25px;
+  height: 25vh;
+}
+
+.SunriseAvenueHomePageSection {
+  text-align: center;
+  margin: 20px;
+  margin-bottom: 28px;
+}
+
+.SunriseAvenueHomePageCardHeading {
+  font-family: "Bree Serif";
+  color: #f19116;
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.SunriseAvenueHomePageCardDescription {
+  font-family: "Bree Serif";
+  color: #7b8794;
+  font-size: 14px;
+}
+
+.SunriseAvenueHomePageButton {
+  color: #ffffff;
+  font-size: 10px;
+  font-family: "Bree Serif";
+  background-color: #f19116;
+  border-width: 0px;
+  text-align: center;
+  padding: 6px;
+  width: 68px;
+  border-radius: 5px;
+  margin-bottom: 25px;
+}
+
+.SunriseAvenueFlatListPagE-Bg-Container {
+  background-color: #222222;
+  background-size: cover;
+  height: 84vh;
+  padding: 15px;
+}
+
+.SunriseAvenueFlatListPageMainHeading {
+  font-family: "Bree Serif";
+  color: #f19116;
+  font-weight: 500;
+  font-size: 25px;
+  margin-top: 13px;
+}
+
+.SunriseAvenueFlatListPageCard {
+  background-color: #ffffff;
+  border-radius: 12px;
+  margin-bottom: 18px;
+}
+
+.SunriseAvenueFlatListPageCardDetailedCheck {
+  margin-left: 10px;
+  padding-top: 20px;
+}
+
+.SunriseAvenueListPageImageSetup {
+  width: 90px;
+  height: 192px;
+}
+
+.SunriseAvenueFlatListPageCardDetailedHeading {
+  font-family: "Bree Serif";
+  color: #222222;
+  font-weight: 600;
+  font-size: 23px;
+}
+
+.SunriseAvenueFlatListPageCardDescription {
+  font-family: "Bree Serif";
+  color: #7b8794;
+}
+
+.SunriseAvenueFlatListPageCardButton {
+  width: 85px;
+  height: 30px;
+  text-align: center;
+  background-color: #f19116;
+  color: #ffffff;
+  font-size: 13px;
+  border-width: 0px;
+  border-radius: 3px;
+  margin-top: 25px;
+}
+
+.bhk-image {
+  width: 100vw;
+  height: 23vh;
+}
+
+.bhk-card-bg-container {
+  background-color: #222222;
+  background-size: cover;
+  height: 42vh;
+}
+
+.bhk-card-setup {
+  padding: 20px;
+}
+
+.bhk-card-heading {
+  font-family: "Roboto";
+  font-weight: 600;
+  color: #f19116;
+  font-size: 23px;
+  padding-bottom: 5px;
+}
+
+.location-image {
+  height: 23px;
+  margin-right: 8px;
+}
+
+.location-description {
+  font-family: "Bree Serif";
+  color: #ffffff;
+  font-weight: 500;
+  font-size: 12px;
+  margin-left: 5px;
+  margin-top: 5px;
+}
+
+.bhk-card-description-heading {
+  font-family: "Roboto";
+  font-weight: 600;
+  color: #f19116;
+  font-size: 23px;
+  padding-bottom: 5px;
+}
+
+.bhk-card-description-info {
+  font-family: "Bree Serif";
+  color: #ffffff;
+  font-size: 13px;
+  font-weight: 500;
+  margin-bottom: 15px;
+}
+
+.fixes {
+  margin: 10px;
+}

@@ -1,0 +1,159 @@
+#VR-link-1 {
+  font-family: "Roboto";
+  color: #0a0000;
+  font-size: 18px;
+}
+
+#VR-link-2 {
+  font-family: "Roboto";
+  color: #0a0000;
+  font-size: 18px;
+}
+
+#VR-link-3 {
+  font-family: "Roboto";
+  color: #0a0000;
+  font-size: 18px;
+}
+
+#VR-link-4 {
+  font-family: "Roboto";
+  color: #0a0000;
+  font-size: 18px;
+}
+
+.VR-image {
+  width: 90px;
+  height: 45px;
+}
+
+.VR-section-bg-container {
+  background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-banner-bg.png");
+  height: 100vh;
+  background-size: cover;
+}
+
+.VR-section-heading {
+  font-family: "Roboto";
+  color: #ffffff;
+  font-size: 45px;
+  font-weight: 300;
+}
+
+.vr-button {
+  width: 130px;
+  height: 45px;
+  color: white;
+  background-color: #1a2137;
+  border-width: 0px;
+  border-radius: 8px;
+}
+
+.VR-Features-Section-bg-container {
+  background-color: white;
+}
+
+.VR-Features-heading {
+  color: #1f2933;
+  font-family: "Roboto";
+  font-size: 28px;
+  font-weight: 700;
+}
+
+.Vr-section-image-setup {
+  width: 60px;
+  height: 55px;
+  margin-bottom: 16px;
+}
+
+.VR-section-card-heading {
+  font-family: "Roboto";
+  color: #1f2933;
+  font-size: 22px;
+  font-weight: 500;
+}
+
+.VR-section-card-description {
+  font-family: "Roboto";
+  color: #7b8794;
+  font-size: 16px;
+  font-weight: 300;
+}
+
+.VR-sudden-style {
+  color: #000000;
+  font-style: italic;
+  font-weight: 600;
+}
+
+.VR-Website-Kit-Section-bg-container {
+  background-color: #f9fbfe;
+}
+
+.VR-Website-Kit-Section-Heading {
+  color: #1f2933;
+  font-family: "Roboto";
+  font-size: 26px;
+  font-weight: 700;
+}
+
+.VR-KIT-IMAGE {
+  width: 165px;
+  height: 200px;
+}
+
+.VR-KIT-IMAGE-HEADING {
+  color: #323f4b;
+  font-family: "Roboto";
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.VR-optics-section-bg-container {
+  background-color: white;
+}
+
+.Vr-optcs-image {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.VR-optics-heading {
+  color: #1f2933;
+  font-family: "Roboto";
+  font-size: 36px;
+  font-weight: 700;
+}
+
+.VR-optics-description {
+  color: #7b8794;
+  font-family: "Roboto";
+  font-size: 20px;
+}
+
+.VR-optic-button {
+  width: 130px;
+  height: 45px;
+  color: white;
+  font-size: 18px;
+  font-weight: 500;
+  background-color: #1a2137;
+  border-width: 0px;
+  border-radius: 5px;
+}
+
+.VR-Website-Contact-Us-Section-Bg-Container {
+  background-color: #222b36;
+  background-size: cover;
+}
+
+.VR-Website-Contact-Us-Section-heading {
+  font-family: "Roboto";
+  font-size: 36px;
+  color: #ffffff;
+  font-weight: 700;
+}
+
+.Contact-Us-Section-Image {
+  width: 270px;
+}

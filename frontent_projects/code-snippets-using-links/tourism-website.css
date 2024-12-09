@@ -1,0 +1,130 @@
+.bg-container {
+  text-align: center;
+  background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/ocean.jpg");
+  height: 100vh;
+  background-size: cover;
+}
+
+.tourism-card {
+  text-align: center;
+  background-color: whitesmoke;
+  padding-bottom: 15px;
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+}
+
+.p1 {
+  color: grey;
+  font-weight: bold;
+  font-style: italic;
+  padding-bottom: 10px;
+}
+
+.h1 {
+  color: black;
+  font-family: 'Roboto';
+  padding-top: 10px;
+}
+
+.button {
+  width: 135px;
+  height: 30px;
+  color: white;
+  border-radius: 25px;
+  font-weight: bolder;
+  border-width: 0px;
+  border-color: aliceblue;
+  background-color: #25b1cc;
+}
+
+.favourite-place-bg-container {
+  background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/towerbg.png");
+  background-size: cover;
+  height: 100vh;
+}
+
+.favourite-place-h1 {
+  color: white;
+  font-size: 28px;
+  font-weight: bold;
+  font-family: "Roboto";
+  padding: 24px;
+}
+
+.favourite-place-card-container {
+  background-color: white;
+  border-radius: 8px;
+  padding: 12px;
+  margin: 15px;
+}
+
+.favourite-place-card-heading {
+  font-family: "Roboto";
+  font-size: 23px;
+  font-weight: bold;
+  color: #0f0e46;
+}
+
+.favourite-place-card-description {
+  font-family: "Roboto";
+  font-size: 13px;
+  color: #6c6b70;
+}
+
+.favourite-place-card-image {
+  height: 100px;
+  width: 80px;
+}
+
+.card-button {
+  margin: 5px;
+  border-radius: 8px;
+  height: 35px;
+  width: 85px;
+}
+
+.detailed-view-background {
+  background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png");
+  background-size: cover;
+  height: 100vh;
+}
+
+.detailed-view-heading {
+  color: white;
+  font-family: "Roboto";
+  font-size: 30px;
+  font-weight: bold;
+  padding: 30px;
+}
+
+.check {
+  padding: 15px;
+}
+
+.detailed-view-card-container {
+  background-color: white;
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+  margin: 24px;
+}
+
+.detailed-view-card-heading {
+  font-family: "Roboto";
+  color: #0f0e46;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.detailed-view-card-description {
+  font-family: "Roboto";
+  color: #6c6b70;
+  font-size: 15px;
+}
+
+.detailed-view-card-text-container {
+  padding: 16px;
+}
+
+.unorderlist {
+  list-style-type: circle;
+}

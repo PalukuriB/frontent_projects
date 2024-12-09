@@ -1,0 +1,22 @@
+#tourism-card {
+  text-align: center;
+  background-color: white;
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  padding: 5px;
+}
+
+.bg-container {
+  background-image: url("https://i.pinimg.com/564x/73/4c/93/734c9378b66ccb6769c991337d6adf4a.jpg");
+  height: 100vh;
+  background-size: cover;
+}
+
+.main-heading {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 40px;
+}
+
+.paragraph {
+  color: grey
+}
